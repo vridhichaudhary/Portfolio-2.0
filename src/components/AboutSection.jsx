@@ -104,7 +104,7 @@ export const AboutSection = () => {
                 <div className="text-left">
                   <h4 className="font-semibold text-lg">Competitive Coding</h4>
                   <p className="text-muted-foreground">
-                    Active coder with ratings of 657 on Codeforces and 1112 on CodeChef.
+                    Active coder with ratings of 908 on Codeforces and 1133 on CodeChef.
                   </p>
                 </div>
               </div>
